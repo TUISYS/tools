@@ -16,7 +16,7 @@ UIStudio工具提供了一套成熟完整的UI布局、资源制作、和资源�
 <br>
 <br>
 <p align="left">
-<img src="https://raw.githubusercontent.com/TUISYS/image/main/download.png">
+<img src="https://gitee.com/tuisys/image/raw/main/download.png">
 </p>
 <br>
 
@@ -26,7 +26,7 @@ UIStudio工具提供了一套成熟完整的UI布局、资源制作、和资源�
 <br>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/TUISYS/image/main/install.png">
+<img src="https://gitee.com/tuisys/image/raw/main/install.png">
 </p>
 <br>
 
@@ -40,7 +40,7 @@ UIStudio工具提供了一套成熟完整的UI布局、资源制作、和资源�
 6️⃣ 选中控件属性设置区。<br>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/TUISYS/image/main/main_view.png">
+<img src="https://gitee.com/tuisys/image/raw/main/main_view.png">
 </p>
 
 ## hello例子
@@ -48,5 +48,5 @@ UIStudio工具提供了一套成熟完整的UI布局、资源制作、和资源�
 <br>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/TUISYS/image/main/hello.gif">
+<img src="https://gitee.com/tuisys/image/raw/main/hello.gif">
 </p>
