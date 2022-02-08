@@ -10,7 +10,7 @@ UIStudio工具提供了一套成熟完整的UI布局、资源制作、和资源�
 * 丰富的控件，开年拖拽到对应的视图即可
 * 逆向工程，UIStudio工具生成的res.disk文件，通过UStudio.Rever可以逆向工程修改，方便不懂编程的替换图片和更改坐标，的三次开发。
 
-## 腾讯微信下载链接
+## 腾讯微云下载链接
 🔨UIStudio工具下载链接：https://share.weiyun.com/HjgQ8Teu
 <br>
 <br>
