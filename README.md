@@ -12,19 +12,40 @@ UIStudio工具提供了一套成熟完整的UI布局、资源制作、和资源�
 
 ## 腾讯微信下载链接
 🔨UIStudio工具下载链接：https://share.weiyun.com/HjgQ8Teu
+<br>
+<br>
+<br>
+<p align="left">
+<img src="https://raw.githubusercontent.com/TUISYS/image/main/download.png">
+</p>
+<br>
 
 ## 工具安装
 下载完成后，双击安装，傻瓜式的点击下一步就可以。
+<br>
+<br>
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/TUISYS/image/main/install.png">
 </p>
+<br>
 
 ## 工具界面介绍
+工具界面6大功能块<br>
+1️⃣ 全局功能配置，资源制作打包，模拟运行等功能。<br>
+2️⃣ 编辑区视图显示，控件对齐，控件操作等功能。<br>
+3️⃣ 视图布局树形结构。<br>
+4️⃣ 所有控件类型。<br>
+5️⃣ 视图编辑和显示区。<br>
+6️⃣ 选中控件属性设置区。<br>
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/TUISYS/image/main/main_view.png">
 </p>
 
 ## hello例子
+一个简单的测试例子，在视图里面放置一个切换开关和一个hello标签。
+<br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/TUISYS/image/main/hello.gif">
 </p>
