@@ -15,7 +15,16 @@ UIStudio工具提供了一套成熟完整的UI布局、资源制作、和资源�
 
 ## 工具安装
 下载完成后，双击安装，傻瓜式的点击下一步就可以。
+<p align="center">
+<img src="https://raw.githubusercontent.com/TUISYS/image/main/install.png">
+</p>
 
 ## 工具界面介绍
+<p align="center">
+<img src="https://raw.githubusercontent.com/TUISYS/image/main/main_view.png">
+</p>
 
 ## hello例子
+<p align="center">
+<img src="https://raw.githubusercontent.com/TUISYS/image/main/hello.gif">
+</p>
