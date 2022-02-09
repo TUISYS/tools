@@ -11,7 +11,7 @@
 * 逆向工程，`UIStudio`工具生成的`res.disk`文件，通过`UStudio.Rever`可以逆向工程修改，方便不懂编程的人员，替换图片和更改坐标，完成固件修改。
 
 ## UIStudio下载链接
-🔨腾讯微云`UIStudio`下载链接：https://share.weiyun.com/HjgQ8Teu
+🔨腾讯微云`UIStudio`下载链接：https://share.weiyun.com/mNmShJgy
 <br>
 <br>
 <br>
