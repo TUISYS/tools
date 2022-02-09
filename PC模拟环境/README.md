@@ -14,3 +14,12 @@
 
 ## VC++安装
 请`百度`或者`google`搜索相关教程
+
+## VC++模拟工程演示
+下面是UIStudio创建的hello工程，通过VC++打开后，在PC端模拟仿真，调试应用逻辑。
+<br>
+<br>
+<p align="left">
+<img src="https://gitee.com/tuisys/image/raw/main/hello_vc.png">
+</p>
+<br>
