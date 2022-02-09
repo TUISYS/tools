@@ -4,7 +4,7 @@
 微软提供的vc++开发环境，可以模拟TUI的应用开发，在`platform/vc++`文件夹下面，可以打开`xxx.vcxproj`工程文件，编写自己的应用逻辑。只包含`tui.h`头文件的`.c`，各个平台之间的代码是可以相互兼容的。
 
 ## VC++下载链接
-🔨腾讯微云VC++下载链接：https://share.weiyun.com/8eBf43Kw
+🔨腾讯微云VC++下载链接：https://share.weiyun.com/mNmShJgy
 <br>
 <br>
 <p align="left">
