@@ -20,6 +20,6 @@
 <br>
 <br>
 <p align="left">
-<img src="https://gitee.com/tuisys/image/raw/main/hello_vc.png">
+<img src="https://gitee.com/tuisys/image/raw/main/hello_vc.gif">
 </p>
 <br>
