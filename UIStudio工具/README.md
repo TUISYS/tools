@@ -44,7 +44,8 @@
 </p>
 
 ## UIStudio创建hello例子
-一个简单的测试例子，在视图里面放置一个`切换开关`和`hello标签`。
+一个简单的测试例子，在视图里面放置一个`切换开关`和`hello标签`。<br>
+动画链接：https://gitee.com/tuisys/image/raw/main/hello.gif
 <br>
 <br>
 <p align="center">
