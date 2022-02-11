@@ -17,10 +17,13 @@
 
 ## VC++仿真模拟工程演示
 下面是UIStudio创建的hello工程，通过VC++打开后，在PC端模拟仿真，调试应用逻辑。<br>
-动画链接：https://gitee.com/tuisys/image/raw/main/hello_vc.gif
 <br>
 <br>
-<p align="left">
+<p align="center">
 <img src="https://gitee.com/tuisys/image/raw/main/hello_vc.gif">
 </p>
+
 <br>
+<p align="center">
+动画链接：https://gitee.com/tuisys/image/raw/main/hello_vc.gif
+</p>
