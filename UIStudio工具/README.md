@@ -30,6 +30,13 @@
 </p>
 <br>
 
+## UIStudio注册
+点击`生成许可码`，会生成`.key`文件，将该文件发给TUI组织，会得到一个`密钥文件`，最后点击`导入key`，将`密钥文件`导入就完成注册。
+<br>
+<p align="center">
+<img src="https://gitee.com/tuisys/image/raw/main/license.png">
+</p>
+
 ## UIStudio界面介绍
 工具界面6大功能块：<br>
 1️⃣ 全局功能配置，资源制作打包，模拟运行等功能。<br>
