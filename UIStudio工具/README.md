@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-<p align="left">
+<p align="center">
 <img src="https://gitee.com/tuisys/image/raw/main/download.png">
 </p>
 <br>
