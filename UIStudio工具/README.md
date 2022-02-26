@@ -58,7 +58,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/TUISYS/image/main/hello.gif">
 </p>
-<p align="center">
+
 动画链接：https://gitee.com/tuisys/image/raw/main/hello.gif
-</p>
+
 
