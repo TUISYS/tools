@@ -24,6 +24,6 @@
 </p>
 
 <br>
-<p align="center">
+
 动画链接：https://gitee.com/tuisys/image/raw/main/hello_vc.gif
-</p>
+
