@@ -59,6 +59,6 @@
 <img src="https://raw.githubusercontent.com/TUISYS/image/main/hello.gif">
 </p>
 
-动画链接：https://gitee.com/tuisys/image/raw/main/hello.gif
+动画链接：https://gitee.com/tuisys/image/blob/main/hello.gif
 
 
