@@ -8,7 +8,7 @@
 <br>
 <br>
 <p align="left">
-<img src="https://gitee.com/tuisys/image/raw/main/download_vc.png">
+<img src="https://i.postimg.cc/MpsKq3xL/download-vc.png">
 </p>
 <br>
 
@@ -20,7 +20,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/TUISYS/image/main/hello_vc.gif">
+<img src="https://i.postimg.cc/jqkXntcq/hello-vc.gif">
 </p>
 
 <br>
