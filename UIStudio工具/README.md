@@ -16,7 +16,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/D0VwRWFy/download.png">
+<img src="https://s1.imagehub.cc/images/2022/06/16/download.png">
 </p>
 <br>
 
@@ -26,7 +26,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/9frXMPQQ/install.png">
+<img src="https://s1.imagehub.cc/images/2022/06/16/install.png">
 </p>
 <br>
 
@@ -34,7 +34,7 @@
 点击`生成许可码`，会生成`.key`文件，将该文件发给TUI组织（529206238@qq.com），会得到一个`密钥文件`，最后点击`导入key`，将`密钥文件`导入就完成注册。
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/qqZjkdbR/license.png">
+<img src="https://s1.imagehub.cc/images/2022/06/16/license.png">
 </p>
 
 ## UIStudio界面介绍
@@ -47,7 +47,7 @@
 6️⃣ 选中控件属性设置区。<br>
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/Dw1dNsTm/main-view.png">
+<img src="https://s1.imagehub.cc/images/2022/06/16/main_view.png">
 </p>
 
 ## UIStudio创建hello例子
@@ -56,7 +56,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://i.postimg.cc/FRV6X8Xd/hello.gif">
+<img src="https://s1.imagehub.cc/images/2022/06/16/hello.gif">
 </p>
 
 动画链接：https://gitee.com/tuisys/image/blob/main/hello.gif
