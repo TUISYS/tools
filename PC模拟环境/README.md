@@ -8,7 +8,7 @@
 <br>
 <br>
 <p align="left">
-<img src="https://s1.imagehub.cc/images/2022/06/16/download-vc.png">
+<img src="https://s1.imagehub.cc/images/2022/06/16/download_vc.png">
 </p>
 <br>
 
@@ -20,7 +20,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://s1.imagehub.cc/images/2022/06/16/hello-vc.gif">
+<img src="https://s1.imagehub.cc/images/2022/06/16/hello_vc.gif">
 </p>
 
 <br>
